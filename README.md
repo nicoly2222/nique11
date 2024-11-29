@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenDellaRoveri&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoly2222&show_icons=true&theme=tokyonight)
 
 Essas são as tecnologias que eu tenho praticado e estudado:
 
